@@ -1,3 +1,5 @@
+--------------DEMUX 1X4 with 4bit inputs VHDL code------------------
+-------------Adem Çapan---------------------------------------------
 Library IEEE;
 use IEEE.std_logic_1164.all;
 
